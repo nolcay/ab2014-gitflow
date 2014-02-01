@@ -1,4 +1,4 @@
 ab2014-gitflow
 ==============
 
-Akademik Bilişim Ruby on Rails Git Flow
+Akademik Bilişim Ruby on Rails Git Flow.
